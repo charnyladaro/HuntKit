@@ -1,0 +1,8 @@
+# BugHunt Scope File
+# One target per line
+# Lines starting with # are comments
+
+# Add your authorized targets below:
+# example.com
+# testfire.net
+# *.hackerone.com
